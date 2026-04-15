@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+
+# dotenv environment variable file
+.env
+
+# Build output
+build/
+dist/
+
+# macOS system files
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# npm package-lock
+package-lock.json
+
+# Yarn integrity file
+.yarn-integrity
+
+# Miscellaneous
+Thumbs.db
+.DS_Store
+*~
+*.swp
